@@ -24,5 +24,4 @@ export class BuscarComponent implements OnInit {
     this.router.navigate(['/heroe',idx])
     //console.log(idx);
   }
-
 }
