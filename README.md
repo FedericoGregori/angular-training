@@ -1,3 +1,3 @@
-# Curso Angular Evaluación 1
+# Install
 
 ## $ npm install
